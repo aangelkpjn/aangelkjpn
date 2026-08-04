@@ -4,7 +4,7 @@
 </h1>
 
 <h3 align="center">
-  Entusiasta da tecnologia | Estudante de Desenvolvimento de Sistemas
+  Entusiasta da tecnologia | Estudante de Análise e Desenvolvimento de Sistemas
 </h3>
 
 <p align="center">
